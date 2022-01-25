@@ -1,9 +1,12 @@
 #  Digital Personal Trainer 🔰
 
-- Membros :
+## Prova de AptidÃO Profissional 📝
+
+- Membros 👨🏻‍💻 : 
   João Vieira;
   Rodrigo Rocha;
-- Escola :
+
+- Escola 🏫 :
   Agrupamento Escolas da Batalha.
 
 Este é primeiro protótipo da PAP (Prova de Aptidão Profissional)
