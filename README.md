@@ -18,7 +18,6 @@ Este é primeiro protótipo da PAP (Prova de Aptidão Profissional)
 
 -------------------------------------------------------------------------
 
-English
 
 ## Professional Aptitude Test 📝
 
