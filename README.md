@@ -1,7 +1,5 @@
 #  Digital Personal Trainer 🔰
 
-###Portuguese
-
 ## Prova de Aptidão Profissional 📝
 
 > 1º protótipo da Prova de Aptidão Profissional
@@ -18,7 +16,9 @@
 
 Este é primeiro protótipo da PAP (Prova de Aptidão Profissional)
 
-###English
+-------------------------------------------------------------------------
+
+English
 
 ## Professional Aptitude Test 📝
 
